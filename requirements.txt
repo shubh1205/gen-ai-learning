@@ -1,1 +1,7 @@
 openai
+langchain
+pinecone
+langchain-openai
+langchain_community
+langchain_pinecone
+tiktoken
